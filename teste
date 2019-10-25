@@ -6,3 +6,6 @@ gato(fiona).
 
 
 pessoa(X) :- mortal(X).
+
+
+animal(X) :- cachorro(X).
