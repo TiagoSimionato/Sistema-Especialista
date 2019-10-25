@@ -1,0 +1,8 @@
+pessoa(socrates).
+pessoa(platao).
+cachorro(bisteca).
+gato(fiona).
+
+
+
+pessoa(X) :- mortal(X).
