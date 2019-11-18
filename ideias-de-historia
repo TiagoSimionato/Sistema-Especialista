@@ -6,6 +6,15 @@ Classes: Ciborgue, Androide, Cientista,
 Nome do centro de pesquisa:
 tesouro que o protagonista está atrás:
 
+	REGRAS DO JOGO
+
+1)Tudo que for digitado deverá terminar com ponto final.
+2)Este Jogo funciona como uma narrativa interativa. Ao longo da narração serão apresentados problemas e escolhas ao protagonista, interpretado por você, que exigirão uma resposta para prosseguir com a aventura.
+3)Todas as perguntas que exigem respostas númericas devem ser respondidas com números inteiros.
+4)Em certos momentos o jogo apresentará escolhas que podem resultar em consequências diferentes. Fique Atento(a).
+5)
+
+
     INTRODUÇÃO
  
 É o ano de 3052. Embora inúmeros avanços tecnológicos conduziram a humanidade a um futuro utópico, eles também foram a causa de sua queda subsequente. Depois da descoberta de motores capazes de transformar diferentes tipos de energia com até 80% de eficiência e de novas formas altamente produtivas e baratas de extração de energia através da fissura nuclear de átomos, nações rapidamente começaram a conspirar umas contra as outras para a obtenção desse conhecimento.
@@ -21,15 +30,21 @@ Em algum lugar lá embaixo o ##(tesouro) lhe aguarda. Você desce os degraus ten
 
 	PERGUNTA 1
 	
-Ao final da escada você se depara com uma sala completamente branca e bem iluminada, mas um pouco menor do que você esperaria de um grande laboratório. O lugar parece limpo e não há nada lá além de um cano de metal no canto esquerdo da sala e de uma porta do outro lado que da acesso para lugares mais profundos do laboratório.
+Ao final da escada você se depara com uma sala completamente branca e bem iluminada, mas um pouco menor do que você esperaria de um grande laboratório. O lugar parece limpo e não há nada lá além de um cano de metal no canto esquerdo da sala e de uma porta do outro lado que da acesso para áreas mais profundas do laboratório.
 
 O que você faz? ( 1.1 Checar o cano; 1.2 Ignorar o cano)
 
-1.1:Subitamente um barulho de engranagens rangendo ecoa e uma porta de metal se fecha bloqueando a entrada e uma parede de vidro desce impedindo o acesso ao corredor adiante. 
+1.1:Subitamente um barulho de engranagens rangendo ecoa e uma porta de metal se fecha bloqueando a entrada e uma parede de vidro desce impedindo o acesso ao corredor adiante. Um vidro como aquele resiste até 4 pancadas com uma barra de ferro com o dobro de diâmetro daquela que você agora tem em mãos. Sabendo que há uma relação de inversa proporcionalidade entre o número de pancadas e o diâmetro da barra, qual o número mínimo de pancadas que você precisará exercer para que possa quebrar o vidro, escapar da sala e seguir adiante?
+(raciocínio: se o vidro aguenta 4 pancadas, isto é, com mais de 4 pancadas quebra com a barra de diâmetro D, então com uma barra de diâmetro D/2 o vidro resistiria, no máximo, a 8 pancadas. Logo, pra que quebre, seriam necessárias 9 pancadas)
+##(respota correta)
+
+Exatamente! o vidro se estilhaça e o caminho agora está livre. Infelizmente a barra ão resistiu a tantos impactos e se rompeu junto com o vidro, se tornando inútil.
 
 1.2:Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés. Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão. Parece um componente importante! Por sorte, haviam algumas ##(bugigangas) em seu bolso que podem servir para serem arremessadas. Você então estima que a sala branca tem aproximadamente 8 metros de largura  e sabe que cada peça tem X gramas e que sua altura é de X metros. Com que força você deve arremesar a peça para desativar cada uma das garras e se libertar?
 
+##(respota correta)
 
-"Um vidro como aquele resiste até 4 pancadas com uma barra de ferro com o dobro de diâmetro daquele que você agora tem em mãos. Sabendo que há uma relação de inversa proporcionalidade entre o número de pancadas e o diâmetro da barra, qual o número mínimo de pancadas que você precisará exercer para que possa quebrar o vidro e escapar da sala?"
+Muito Bem! Ao ser atingida em seu núcleo exposto a base de cada garra detona fracamente e seus pés agora estão soltos, livres para serem seguirem para a próxima sala
 
-raciocínio: se o vidro aguenta 4 pancadas, isto é, com mais de 4 pancadas quebra com a barra de diâmetro D, então com uma barra de diâmetro 2D o vidro resistiria, no máximo, a 2 pancadas. Logo, pra que quebre, seriam necessárias 3 pancadas.
+	PERGUNTA 2
+
