@@ -22,7 +22,15 @@ enunciado(1) :-
 	nl.
 	
 enunciado(2) :-
-	write('esse é o enunciado da questão 2!').
+	write('Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés.'),
+	nl,
+	write('Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão.'),
+	nl,
+	write('Parece um componente importante! Por sorte, haviam algumas ##(bugigangas) em seu bolso que podem servir para serem arremessadas.'),
+	nl,
+	write('Você então estima que a sala branca tem aproximadamente 8 metros de largura  e sabe que cada peça tem X gramas e que sua altura é de X metros.'),
+	nl,
+	write('Com que força você deve arremesar a peça para desativar cada uma das garras e se libertar?').
 	
 	
 /*DICAS ==========================================================================================================================*/
@@ -41,7 +49,7 @@ dica(2) :-
 /*A AVENTURA =====================================================================================================================*/
 
 eventos :-
-	write('======================================================================================================================='),
+	write('=======================================================================================================================')
 	nl,
 	write('Ao final da escada você se depara com uma sala completamente branca e bem iluminada, mas um pouco menor do que esperaria de um grande laboratório.'),
 	nl,
