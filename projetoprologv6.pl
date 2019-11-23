@@ -71,17 +71,10 @@ vidas(Y, V) :-
  * NV: nova vida
  */	
 checa_resposta(N, X, D, V, NV) :-
-	(	resposta(N, X) -> write('Você acertou!'),
-    						nl, 
-                            string_to_list(D, "n"),
-                            (V > 0 -> NV is -2; NV is -1);
-                            
-		write('Você errou!'), nl,  
-        NV is V-1, 
-        perde(1), 
-        write('Número de vidas atual: '), 
-        write(NV), nl,
-        (NV \= 0 -> write('Gostaria de receber uma dica? (y/n)'), nl, read(D), nl; vidas(NV))
+	(	
+		resposta(N, X) -> write('Você acertou!'), nl, string_to_list(D, "n"), (V > 0 -> NV is -2; NV is -1);
+                           
+		write('Você errou!'), nl, NV is V-1, perde(1), write('Número de vidas atual: '), write(NV), nl, (NV \= 0 -> write('Gostaria de receber uma dica? (y/n)'), nl, read(D), nl; vidas(NV))
 	).
 
 
