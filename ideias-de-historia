@@ -1,10 +1,10 @@
 Depósito de ideias para história.
 
-    ELEMENTOS CHAVE
+	ELEMENTOS CHAVE
   
-Classes: Ciborgue, Androide, Cientista, 
+Classes: Ciborgue, Androide, Cientista 
 Nome do centro de pesquisa:
-tesouro que o protagonista está atrás:
+Tesouro que o protagonista está atrás:
 
 	REGRAS DO JOGO
 
@@ -16,14 +16,21 @@ tesouro que o protagonista está atrás:
 
 	TEXTO DAS CLASSES
 
-Cientista: Mestre da experimentação (Recebe uma dica extra por fase)
-Ciborgue : Consegue enxergar mais do que os olhos podem ver (Mais opções de caminho)
-Androide : Carrega várias peças extras para se reparar (Tem uma vida extra por fase)
+Cientista: Mestre da experimentação (Mais opções de caminho)
+Ciborgue : Consegue enxergar mais do que os olhos podem ver (Recebe uma dica extra por fase)
+Androide : Carrega um estoque de peças extras para se reparar (Tem uma vida extra por fase)
 
 
 	TEXTO DAS MORTES
 
 
+
+	FINAIS
+	
+Final Ruim       : O jogador não consegue o tesouro
+Final Bom        : O jogador consegue o tesouro
+Final Verdadeiro : O jogador descobre o simulacro (Apenas o Cientista tem acesso)
+	
     INTRODUÇÃO
  
 É o ano de 3052. Embora inúmeros avanços tecnológicos conduziram a humanidade a um futuro utópico, eles também foram a causa de sua queda subsequente. Depois da descoberta de motores capazes de transformar diferentes tipos de energia com até 80% de eficiência e de novas formas altamente produtivas e baratas de extração de energia através da fissura nuclear de átomos, nações rapidamente começaram a conspirar umas contra as outras para a obtenção desse conhecimento.
@@ -79,9 +86,21 @@ Você percebe um pequeno painel digital próximo à porta trancada da saída. El
 
 Perfeito! A temperatura da sala começa a despencar enquanto suas funções corporais voltam só normal. A saída agora está aberta e você caminha em direção ao seu próximo desafio.
 
-PERGUNTA 4
+	PERGUNTA 4
 
+Ao final do corredor há mais um sala cheia de azulejos brancos intermináveis. O único objeto existente dentro dela é um grande cubo preto feito de granito. O que você faz? (1. Se aproxima do cubo; 2. Contorna ele em direção à saída).
 
+4.1: Ao chegar perto do cubo dois buracos abrem no piso ao seu lado e garras prendem seus pés antes de você conseguir se desviar. Um clique ressoa do outro lado da sala. Surgiu um desnível do outro lado da sala exatamente com o comprimento do cubo. O cubo precisa ser colocado lá! Mas com cuidado pois logo em seguida apareceu outro botão com uma bomba desenhada, sugerindo uma grande destruição caso ativada. Há uma inscrição no cubo pequena e mal feita: "coeficiente de atrito=X". Seus sentidos aguçados lhe dão a estimativa que o cubo tenha massa X kg, o dispositivo surgiu a X metros de distância e apesar de sua memória enevoada você lembra que alguém te ensinou que o campo gravitacional da Terra gera uma aceleração de 9,8 m/s² na superfície. Com que força você soca o cubo em direção ao buraco?
+
+##(resposta certa)
+
+Precisamente! O cubo desliza furiosamente os X metros e por um triz chega ao seu destino. As garras te liberam, a saída se desbloqueia e é hora de seguir adiante
+
+4.2:No meio de sua caminhada sirenes irrompem do nada e muitos robos-guardas despencam do teto. Durante a loucura o cubo de granito de abre e uma mangueira é arremessada em sua direção. Há água dentro do cubo! Porém uma quantidade limitada. Se você quer jogar o máximo de água possível em cada robo para garantir que todos deixem de funcionar, seus instintos lhe dizem que a largura do cubo é de aproximadamente 3 metros e seus olhos conseguem contar um total de 20 robos, quantos Litros de água você joga em cada robo?
+
+##(resposta certa)
+
+Ótimo!...
 
 	PERGUNTA FINAL
 
