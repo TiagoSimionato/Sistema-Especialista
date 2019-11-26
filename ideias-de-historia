@@ -5,14 +5,17 @@ Depósito de ideias para história.
 Classes: Ciborgue, Androide, Cientista 
 Nome do centro de pesquisa:
 Tesouro que o protagonista está atrás:
+Falta definir os valores que vamos usar nas questoes, por isso colquei um X no lugar
 
 	REGRAS DO JOGO
 
-1)Tudo que for digitado deverá terminar com ponto final.
-2)Este Jogo funciona como uma narrativa interativa. Ao longo da narração serão apresentados problemas e escolhas ao protagonista, interpretado por você, que exigirão uma resposta para prosseguir com a aventura.
-3)Todas as perguntas que exigem respostas númericas devem ser respondidas com números inteiros.
-4)Em certos momentos o jogo apresentará escolhas que podem resultar em consequências diferentes. Fique Atento(a).
-5)
+1)Ao dar uma resposta, SEMPRE coloque um ponto final, caso contrário, o programa não reconhecerá a sua resposta.
+2)Ao dar uma resposta não-numérica, coloque a palavra entre aspas simples; a menos que seja um caractere, este dispensa o uso de aspas.
+3)Este Jogo se trata de uma narrativa interativa. Ao longo da narração serão apresentados problemas e escolhas ao protagonista, interpretado por você, que exigirão uma resposta para prosseguir com a aventura.
+4)Todas as perguntas que exigem respostas númericas devem ser respondidas com números inteiros.
+5)Em certos momentos o jogo apresentará escolhas que podem resultar em consequências diferentes. Fique Atento(a).
+6)Não sabe como prosseguir? digite "dica." no campo de respostas para receber uma dica relacionada a questão atual.
+7)O não cumprimento das regras acima fará com que o programa seja executado de forma incorreta.
 
 	TEXTO DAS CLASSES
 
@@ -100,7 +103,7 @@ Precisamente! O cubo desliza furiosamente os X metros e por um triz chega ao seu
 
 ##(resposta certa)
 
-Ótimo!...
+Ótimo!...      ##Não terminei isso
 
 	PERGUNTA FINAL
 
