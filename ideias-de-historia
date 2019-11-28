@@ -26,13 +26,27 @@ Androide : Carrega um estoque de peças extras para se reparar (Tem uma vida ext
 
 	TEXTO DAS MORTES
 
+1.1:Subitamente surgem varais lacunas nas paredes e delas surgem incontáveis armas de fogo
+1.2:
+1.3:
 
+2.1:
+2.2:
+2.3:
+
+50.1:Sua mente começa a fraquejar. Sua cabeça lateja. Seu tempo de resistência ao calor está se esgotando, é melhor descobrir a resposta logo
+50.2:É como se você estivesse em chamas. Já está difícil continuar a manter a consciencia, mas em um último ímpeto de força você da a respota:
+50.3:Mas nāo funciona. Aos poucos sua conexão mental com esse mundo se esvai enquanto seu corpo atinge o ponto de fusão e começa a derreter.
 
 	FINAIS
-	
-Final Ruim       : O jogador não consegue o tesouro
-Final Bom        : O jogador consegue o tesouro
-Final Verdadeiro : O jogador descobre o simulacro (Apenas o Cientista tem acesso)
+
+Final Insuficiente : O jogador não consegue terminar o jogo	
+Final Ruim         : O jogador não consegue o tesouro
+Final Bom          : O jogador consegue o tesouro
+Final Verdadeiro   : O jogador descobre o simulacro (Apenas o Cientista tem acesso)
+
+Caso o jogador morra em alguma pergunta:
+É uma pena. As provações do laboratório se mostraram muito rigorosas. Agora, os mistérios que espreitavam as profundezas do laboratório jamais serão descobertos.
 	
     INTRODUÇÃO
  
