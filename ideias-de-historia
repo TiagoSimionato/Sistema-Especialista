@@ -144,6 +144,18 @@ Precisamente! O cubo desliza furiosamente os X metros e por um triz chega ao seu
 
 	PERGUNTA FINAL
 
-Enquanto você está passando pelo corredor, observa duas matrizes rabiscadas na parede com giz preto. Elas estão um pouco apagadas, mas podem ser lidas: "" e "". Embaixo delas, um traço corrido passa a impressão que uma mensagem começou a ser escrita com pressa, porém nunca pôde ser terminada.
+Enquanto você está passando pelo corredor, observa duas matrizes rabiscadas na parede com giz preto. Elas estão um pouco apagadas, mas podem ser lidas:
 
-Ao chegar na próxima sala você sente um tremor que parece vir de algum lugar próximo. Um alarme ensurdecedor ecoa e o teto começa a se abrir. É então que um robô enorme surge da abertura no teto e cai no chão. É um guarda! Apesar de seu tamanho ele apresenta ferrugem e rachaduras em inúmeras partes de seu corpo, limitando seus movimentos. Contudo, o protetor do laboratório apresenta tantos armamentos acoplados em seu corpo que é perigoso se aproximar. Por sorte, o impacto dele no chão faz com que algumas facas que estavam encravadas na parede caíssem no chão. Você corre para pega-lás. Há 7 facas e elas podem servir para serem arremessadas nas regiões mais fracas e comprometidas do robo. Por fim, nota-se que o robo parece apresentar 16 regiões específicas dispostas horizontal e verticalmente em um quadrado. Se a cada região é possível atribuir um índice vertical e horizontal contados a partir do 0 por cima e pela esquerda, em quais Regiões você atira as facas ?   
+[0 2]
+[3 0]
+[0 1]
+[0 0]
+
+[0 1 2 0]
+[1 0 0 3]
+
+Embaixo delas, um traço corrido passa a impressão que uma mensagem começou a ser escrita com pressa, porém nunca pôde ser terminada.
+
+Ao chegar na próxima sala você sente um tremor que parece vir de algum lugar próximo. Um alarme ensurdecedor ecoa e o teto começa a se abrir. É então que um robô enorme surge da abertura no teto e cai no chão. É um guarda! Apesar de seu tamanho ele apresenta ferrugem e rachaduras em inúmeras partes de seu corpo, limitando seus movimentos. Contudo, o protetor do laboratório apresenta tantos armamentos acoplados em seu corpo que é perigoso se aproximar. Por sorte, o impacto dele no chão faz com que algumas facas que estavam encravadas na parede caíssem no chão. Você corre para pega-lás. Há 7 facas e elas podem servir para serem arremessadas nas regiões mais fracas e comprometidas do robo. Por fim, nota-se que o robo parece apresentar 16 regiões específicas dispostas horizontal e verticalmente em um quadrado. Se a cada região é possível atribuir um índice vertical e horizontal contados a partir do 0 por cima e pela esquerda, em quais Regiões você atira as facas ? 
+(Digite os índices entre aspas simples, em ordem crescente, linha por linha. Caso haja algum índice em que desejar atirar mais de uma faca digite o índice duas vezes espaçados igualmente dos demais)
+##Resposta: '11 11 14 14 14 14 14 14 22 22 22 23 23 23 23 23 23 31 34 34 34'
