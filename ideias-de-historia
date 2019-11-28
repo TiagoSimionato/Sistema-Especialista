@@ -44,7 +44,7 @@ Androide : Carrega um estoque de peças extras para se reparar (Tem uma vida ext
 
 51.1:Nāo! Todos os robôs correm furiosamente em sua direção. Rápido! Qual a sua resposta?
 51.2:Alguns robôs já te alcançaram e te dão pancadas incansavelmente. Enquanto se esquiva e se protege, você realiza mais um esforço de encontrar uma solucao. 
-51.3:O esforço é em vão. Os pequenos pedaços de lata raivosos se amontoam sobre você e te agridem até que não seja mais possível reconhecer o que estavam atacando.
+51.3:O esforço é em vão. Os pequenos Autômatos raivosos se amontoam sobre você e te agridem até que não seja mais possível reconhecer o que estavam atacando.
 
 	FINAIS
 
@@ -87,7 +87,7 @@ O que você faz? (1 Checar o cano; 2 Ignorar o cano)
 ##resposta correta:
 Exatamente! o vidro se estilhaça e o caminho agora está livre. Infelizmente a barra não resistiu ao impacto e se rompeu junto, se tornando inútil. Entretando, agora você pode caminhar serenamente em direção à próxima sala.
 
-1.2:Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés. Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão. Parece um componente importante! Por sorte, haviam algumas ##(bugigangas) em seu bolso que podem servir para serem arremessadas. Você então estima que a sala branca tem aproximadamente 8 metros de largura  e sabe que cada peça tem X gramas e que sua altura é de X metros. Com que força você deve arremesar a peça para desativar cada uma das garras e se libertar?
+1.2:Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés. Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão. Parece um componente importante! Por sorte, haviam algumas bugigangas em seu bolso que podem servir para serem arremessadas. Você então estima que a sala branca tem aproximadamente 8 metros de largura  e sabe que cada quinquilharia tem 200 gramas e que a altura de seu personagem é de 1 metro. Com que força você deve arremesar a peça para desativar cada uma das garras e se libertar?
 
 ##(respota correta)
 
@@ -140,7 +140,7 @@ Precisamente! O cubo desliza furiosamente os X metros e por um triz chega ao seu
 
 
 ##resposta certa:
-Ótimo! Enquanto você pula e desvia de ataques imprudentes, Automatas desabam no chão de 2 em 2 segundos até que ##(Nome do jogador) é o último ser em pé. Hora de seguir a jornada.
+Ótimo! Enquanto você pula e desvia de ataques imprudentes, Autômatos desabam no chão de 2 em 2 segundos até que ##(Nome do jogador) é o último ser em pé. Hora de seguir a jornada.
 
 	PERGUNTA FINAL
 
