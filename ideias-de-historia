@@ -48,7 +48,7 @@ Androide : Carrega um estoque de peças extras para se reparar (Tem uma vida ext
 
 6.1: As luzes começam a piscar e você sente fortes dores de cabeça. Ao olhar pelo vidro da sala, nota que no teto do corredor repousa um homem. Seria aquilo uma alucinação?
 6.2: Desafiando a gravidade, os pés do homem continuam fixos no teto. Ele olha diretamente em seus olhos através de sua máscara de prata, e é possível notar que uma lágrima negra escorre de seus olhos.
-6.3: O misterioso sujeito levara seu dedo indicador ao que remetia uma boca em sua máscara, fazendo um sinal de silêncio. Logo em seguida, com o mesmo dedo, apontara em direção ao fundo da sala, logo atrás de você. E de lá, uma grande criatura desprovida de face avançara sedenta por sangue.
+6.3: O misterioso sujeito levara seu dedo indicador à sua face, fazendo um sinal de silêncio. Logo em seguida, com o mesmo dedo, apontara em direção ao fundo da sala, logo atrás de você. E de lá, uma grande criatura desprovida de face avança sedenta por sangue.
 
 50.1: Sua mente começa a fraquejar. Sua cabeça lateja. Seu tempo de resistência ao calor está se esgotando, é melhor descobrir a resposta logo.
 50.2: É como se você estivesse em chamas. Já está difícil continuar a manter a consciencia, mas em um último ímpeto de força você da a respota:
@@ -57,6 +57,10 @@ Androide : Carrega um estoque de peças extras para se reparar (Tem uma vida ext
 51.1: Nāo! Todos os robôs correm furiosamente em sua direção. Rápido! Qual a sua resposta?
 51.2: Alguns robôs já te alcançaram e te dão pancadas incansavelmente. Enquanto se esquiva e se protege, você realiza mais um esforço de encontrar uma solucao. 
 51.3: O esforço é em vão. Os pequenos Autômatos raivosos se amontoam sobre você e te agridem até que não seja mais possível reconhecer o que estavam atacando.
+
+52.1:Não é assim! O Guardião é lento mas começa a juntar os braços a prepar um canhão de laser enorme. Ele precisa ser destruído rapido!
+52.2:O canhão está quase pronto, a arma já está sendo aquecida para o disparo fatal. O cano dela tem o mesmo tamanho que o Mega Autômato, apresentando potência o suficiente pra desintegrar essa sala inteira e todo o caminho percorrido na Central de pesquisa que ficou para trás. É sua última chance!
+52.3:O laser está completamente carregado. É o fim. A arma é disparada com tamanha violência que você nem vê o raio de energia te atingindo. A Central subiterrânea foi apagada existência. As parede desmoronam e tudo é engolido pela terra.
 
 	FINAIS
 
@@ -99,21 +103,25 @@ O que você faz? (1 Checar o cano; 2 Ignorar o cano)
 
 
 1.1:Subitamente um barulho de engranagens rangendo desperta e uma porta de metal se fecha bloqueando a entrada e uma parede de vidro desce impedindo o acesso ao corredor adiante. Um vidro como aquele resiste a um choque mecânico de até 240 Newtons. O cano agora em suas mãos apresenta a propriedade de ser esticado ou contraído. Considerando que ao bater dar uma pancada no vidro o cano gira em torno do eixo de sua mão, potencializando sua força proporcionalmente ao comprimento do cano, com quantos metros (pelo menos) você deve deixar o cano para que o vidro se rompa se o seu máximo de força no momento é 30 Newntons?
+
 ##Resposta: 8
 
 
 ##resposta correta:
 Exatamente! o vidro se estilhaça e o caminho agora está livre. Infelizmente a barra não resistiu ao impacto e se rompeu junto, se tornando inútil. Entretando, agora você pode caminhar serenamente em direção à próxima sala.
 
-1.2:Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés. Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão. Parece um componente importante! Por sorte, haviam algumas bugigangas em seu bolso que podem servir para serem arremessadas. Você então estima que a sala branca tem aproximadamente 8 metros de largura  e sabe que cada quinquilharia tem 200 gramas e que a altura de seu personagem é de 1 metro. Com que força você deve arremesar a peça para desativar cada uma das garras e se libertar?
 
-##(respota correta)
+1.2:Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés. Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão. Parece um componente importante! Por sorte, haviam algumas bugigangas em seu bolso que podem servir para serem arremessadas. Você então estima que a sala branca tem aproximadamente 8 metros de largura, sabe que as quinquilharias têm 200 gramas cada e que a altura de seu personagem é de 1 metro. Com que força (Em Newtons) você deve arremesar a peça para desativar cada uma das garras e se libertar? Despreze os efeitos de resistência do ar e considere que força será aplicada por 0,059036 segundos e será uniforme durante esse tempo.
 
+##Resposta: 30
+
+
+##respota correta:
 Muito Bem! Ao ser atingida em seu núcleo exposto a base de cada garra detona fracamente e seus pés agora estão soltos, livres para serem seguirem para a próxima sala.
 
 	ESCOLHA 1
 	
-Drone ilusório
+Robô ilusório
 
 1.1:Correr
 1.2:Se esgueirar
@@ -154,9 +162,9 @@ Você percebe um pequeno painel digital próximo à porta trancada da saída. El
 ##resposta certa:
 Perfeito! A temperatura da sala começa a despencar enquanto suas funções corporais voltam só normal. A saída agora está aberta e você caminha em direção ao seu próximo desafio.
 
-		ESCOLHA 3
+	ESCOLHA 3
 
-	Premonição?
+Premonição?
 	
 	PERGUNTA 4
 
@@ -169,7 +177,7 @@ Ao final do corredor há mais um sala cheia de azulejos brancos intermináveis. 
 ##resposta certa:
 Precisamente! O cubo desliza furiosamente os X metros e por um triz chega ao seu destino. As garras te libertam, a saída se desbloqueia e é hora de seguir adiante.
 
-4.2:No meio de sua caminhada sirenes irrompem do nada e muitos robos-guardas despencam do teto. Durante a loucura o cubo de granito de abre e uma mangueira é arremessada em sua direção. Há água dentro do cubo! Porém uma quantidade limitada. Se você quer jogar o máximo de água possível em cada robo para garantir que todos deixem de funcionar, seus instintos lhe dizem que a largura do cubo é de aproximadamente 3 metros, seus olhos conseguem contar um total de 20 robôs e a mangueira em suas mãos tem uma vazão de 0,675 L/s, quantos segundos você aponta a mangueira para cada robo?
+4.2:No meio de sua caminhada sirenes irrompem do nada e muitos robôs-guardas despencam do teto. Durante a loucura o cubo de granito de abre e uma mangueira é arremessada em sua direção. Há água dentro do cubo! Porém uma quantidade limitada. Você deve jogar o máximo de água possível em cada vigilante mecânico para garantir que todos deixem de funcionar. Seus instintos lhe dizem que a largura do cubo é de aproximadamente 3 metros, seus olhos conseguem contar um total de 20 robôs e a mangueira em suas mãos tem uma vazão de 0,675 L/s, quantos segundos você aponta a mangueira para cada robô?
 ##Resposta: 2
 
 
@@ -194,13 +202,13 @@ Enquanto você está passando pelo corredor, observa duas matrizes rabiscadas na
 
 Embaixo delas, um traço corrido passa a impressão que uma mensagem começou a ser escrita com pressa, porém nunca pôde ser terminada.
 
-Ao chegar na próxima sala você sente um tremor que parece vir de algum lugar próximo. Um alarme ensurdecedor ecoa e o teto começa a se abrir. É então que um robô enorme surge da abertura no teto e cai no chão. É um guarda! Apesar de seu tamanho ele apresenta ferrugem e rachaduras em inúmeras partes de seu corpo, limitando seus movimentos. Contudo, o protetor do laboratório apresenta tantos armamentos acoplados em seu corpo que é perigoso se aproximar. Por sorte, o impacto dele no chão faz com que algumas facas que estavam encravadas na parede caíssem no chão. Você corre para pega-lás. Há 7 facas e elas podem servir para serem arremessadas nas regiões mais fracas e comprometidas do robo. Por fim, nota-se que o robo parece apresentar 16 regiões específicas dispostas horizontal e verticalmente em um quadrado. Se a cada região é possível atribuir um índice vertical e horizontal contados a partir do 0 por cima e pela esquerda, em quais Regiões você atira as facas ? 
+Ao chegar na próxima sala você sente um tremor que parece vir de algum lugar próximo. Um alarme ensurdecedor ecoa e o teto começa a se abrir. É então que um robô enorme surge da abertura no teto e cai no chão. É um guarda! Apesar de seu tamanho ele apresenta ferrugem e rachaduras em inúmeras partes de seu corpo, limitando seus movimentos. Contudo, o protetor do laboratório apresenta tantos armamentos acoplados em seu corpo que é perigoso se aproximar. Por sorte, o impacto dele no chão faz com que algumas facas que estavam encravadas na parede caíssem no chão. Você corre para pega-lás. Há 21 facas e elas podem servir para serem arremessadas nas regiões mais fracas e comprometidas do super androide. Por fim, nota-se que ele parece apresentar 16 regiões específicas em seu corpo dispostas horizontal e verticalmente em um quadrado. Se a cada região é possível atribuir um índice vertical e horizontal contados a partir do 0 de cima e da esquerda, em quais Regiões você atira as facas?
 (Digite os índices entre aspas simples, em ordem crescente, linha por linha. Caso haja algum índice em que desejar atirar mais de uma faca digite o índice duas vezes espaçados igualmente dos demais)
 ##Resposta: '11 11 14 14 14 14 14 14 22 22 22 23 23 23 23 23 23 31 34 34 34'
 
 ##resposta certa:
-Fantástico! Suas mãos se movem milagrosamente rápido arremessando facas furiosamente nas falhas do robô com assustadora precisão, como em uma cena cinematográfica de algum filme de um lugar há muito tempo chamado de Hollywood. A criatura mecânica cai de joelhos antes de explodir em todas as cores do arco-íris. Um verdadeiro espetáculo.
+Fantástico! Suas mãos são milagrosamente rápidas arremessando facas furiosamente nas falhas expostas do robô com assustadora precisão, como em uma cena cinematográfica de algum filme de um lugar há muito tempo chamado de Hollywood. A criatura mecânica cai de joelhos antes de explodir em todas as cores do arco-íris. Um verdadeiro espetáculo.
 
-A porta que estava guardada apresenta diversos ornamentos, uma cor dourada reluzente e o dobro do tamanho das anteriores. Foi esse o último obstáculo? Está o tesouro logo adiante esperando para ser conquistado?
+A porta que estava guardada apresenta diversos ornamentos, uma cor dourada reluzente e o dobro do tamanho das anteriores. Seria um indicativo de que o último obstáculo foi superado? Está o tesouro logo adiante esperando para ser conquistado?
 
 Almejando responder essas questões que invadem sua cabeça você avança. Passa por um longo corredor escuro e silenciosamente inquietante até chegar em uma parede com um único painel.
