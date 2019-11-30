@@ -5,7 +5,6 @@ Depósito de ideias para história.
 Classes: Ciborgue, Androide, Cientista 
 Nome do centro de pesquisa:
 Tesouro que o protagonista está atrás:
-Falta definir os valores que vamos usar nas questoes, por isso colquei um X no lugar
 
 	REGRAS DO JOGO
 
@@ -170,12 +169,12 @@ Premonição?
 
 Ao final do corredor há mais um sala cheia de azulejos brancos intermináveis. O único objeto existente dentro dela é um grande cubo preto feito de granito. O que você faz? (1. Se aproxima do cubo; 2. Contorna ele em direção à saída).
 
-4.1: Ao chegar perto do cubo dois buracos abrem no piso ao seu lado e garras prendem seus pés antes de você conseguir se desviar. Um clique ressoa do outro lado da sala. Surgiu um desnível do outro lado da sala exatamente com o comprimento do cubo. O cubo precisa ser colocado lá! Mas com cuidado pois logo em seguida apareceu outro botão com uma bomba desenhada, sugerindo uma grande destruição caso ativada. Há uma inscrição no cubo pequena e mal feita: "coeficiente de atrito=X". Seus sentidos aguçados lhe dão a estimativa que o cubo tenha massa X kg, o dispositivo surgiu a X metros de distância e apesar de sua memória enevoada você lembra que alguém te ensinou que o campo gravitacional da Terra gera uma aceleração de 9,8 m/s² na superfície. Com que força você soca o cubo em direção ao buraco?
-#Resposta:
+4.1: Ao chegar perto do cubo dois buracos abrem no piso ao seu lado e garras prendem seus pés antes de você conseguir se desviar. Um clique ressoa do outro lado da sala. Surgiu um desnível do outro lado da sala exatamente com o comprimento do cubo. O cubo precisa ser colocado lá! Mas com cuidado pois logo em seguida apareceu outro botão com uma bomba desenhada, sugerindo uma grande destruição caso ativada. Há uma inscrição no cubo pequena e mal feita: "coeficiente de atrito= 1/14". Seus sentidos aguçados lhe dão a estimativa que o cubo tenha massa 10 kg, o dispositivo surgiu a 35 metros de distância e apesar de sua memória enevoada você lembra que alguém te ensinou que o campo gravitacional da Terra gera uma aceleração de 9,8 m/s² na superfície. Com que força (Em Newtons) você soca o cubo em direção ao buraco? Despreze a resistência do ar e considere que a força será aplicada por 1,4 segundos com intensidade uniforme.
+#Resposta: 50
 
 
 ##resposta certa:
-Precisamente! O cubo desliza furiosamente os X metros e por um triz chega ao seu destino. As garras te libertam, a saída se desbloqueia e é hora de seguir adiante.
+Precisamente! O cubo desliza furiosamente os 35 metros e por um triz chega ao seu destino. As garras te libertam, a saída se desbloqueia e é hora de seguir adiante.
 
 4.2:No meio de sua caminhada sirenes irrompem do nada e muitos robôs-guardas despencam do teto. Durante a loucura o cubo de granito de abre e uma mangueira é arremessada em sua direção. Há água dentro do cubo! Porém uma quantidade limitada. Você deve jogar o máximo de água possível em cada vigilante mecânico para garantir que todos deixem de funcionar. Seus instintos lhe dizem que a largura do cubo é de aproximadamente 3 metros, seus olhos conseguem contar um total de 20 robôs e a mangueira em suas mãos tem uma vazão de 0,675 L/s, quantos segundos você aponta a mangueira para cada robô?
 ##Resposta: 2
