@@ -192,8 +192,8 @@ enunciado(3) :-
 *
 *	"evento(nº da questão)".
 *	
-*	Nem as questões possuem um evento, isto é, existem questões
-*	seguidas sem intermédio de texto entre salas.
+*	Nem todas as questões possuem um evento, isto é, existem perguntas
+*	seguidas sem intermédio de texto entre elas.
 ***************************************************************/
 
 evento(1) :-
