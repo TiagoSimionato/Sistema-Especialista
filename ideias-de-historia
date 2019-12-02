@@ -106,7 +106,6 @@ O que você faz? (1 Checar o cano; 2 Ignorar o cano)
 
 
 1.1:Subitamente um barulho de engranagens rangendo desperta e uma porta de metal se fecha bloqueando a entrada e uma parede de vidro desce impedindo o acesso ao corredor adiante. Um vidro como aquele resiste a um choque mecânico de até 240 Newtons. O cano agora em suas mãos apresenta a propriedade de ser esticado ou contraído. Considerando que ao bater dar uma pancada no vidro o cano gira em torno do eixo de sua mão, potencializando sua força proporcionalmente ao comprimento do cano, com quantos metros (pelo menos) você deve deixar o cano para que o vidro se rompa se o seu máximo de força no momento é 30 Newntons?
-
 ##Resposta: 8
 
 
@@ -115,7 +114,6 @@ Exatamente! o vidro se estilhaça e o caminho agora está livre. Infelizmente a 
 
 
 1.2:Quando você alcança o meio da sala um som agudo é disparado e um mecanismo que se assemelha a uma garra sai das paredes de cada um de seus lados e prende seus pés. Ao olhar atentamente você observa a presença de um componente brilhante com vários fios conectados na base de cada uma das garras, que se encontram no chão. Parece um componente importante! Por sorte, haviam algumas bugigangas em seu bolso que podem servir para serem arremessadas. Você então estima que a sala branca tem aproximadamente 8 metros de largura, sabe que as quinquilharias têm 200 gramas cada e que a altura de seu personagem é de 1 metro. Com que força (Em Newtons) você deve arremesar a peça para desativar cada uma das garras e se libertar? Despreze os efeitos de resistência do ar e considere que força será aplicada por 0,059036 segundos e será uniforme durante esse tempo.
-
 ##Resposta: 30
 
 
@@ -124,11 +122,20 @@ Muito Bem! Ao ser atingida em seu núcleo exposto a base de cada garra detona fr
 
 	ESCOLHA 1
 	
-Robô ilusório
+Enquanto anda por um corredor escuro, um som de metal ressoa do fim da passagem. Subitamente, as paredes começam a se remodelar e em um piscar de olhos você se encontra em um labiritinto mal iluminado. Rangendo com leve escândalo, um robô surge em uma passagem próxima. Ele ainda não notou sua presença. O que você faz?
 
-1.1:Correr
-1.2:Se esgueirar
-1.3:Enfrentar o robô
+##Escolhas:
+1.1: Fugir. Neste momento não há tempo nem energia para serem gastos com lutas desnecessárias.
+1.2: Esgueirar-se pelas sombras. Afinal, é uma boa estrátegia seguir a máquina sem que sua presença seja notada para se descobrir mais informações a respeito do laboratório.
+1.3: Atacar o robô. Tudo dentro deste lugar é considerado inimigo. Deixá-lo escapar agora significa correr o risco de sofrer algum mal ocasionado por esta máquina no futuro.
+
+##Consequências:
+
+1.1: Você pega o caminho mais distante daquele amontodado de peças que consegue encontrar. Correndo e virando esquinas implacavelmente você foge até se cansar. Enquanto faz uma pausa para recuperar o folêgo as paredes voltam a se remodelar, te colocando outra vez no corredor linear no qual você se encontrara inicialmente. Sem entender direito, não lhe resta escolha senão seguir seu caminho.
+
+1.2:
+
+1.3:
 
 	PERGUNTA 2
 
