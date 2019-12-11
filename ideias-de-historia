@@ -14,7 +14,8 @@ Tesouro que o protagonista está atrás: livro antigo com os melhores já feitos
 4)Todas as perguntas que exigem respostas númericas devem ser respondidas com números inteiros.
 5)Em certos momentos o jogo apresentará escolhas que podem resultar em consequências diferentes. Fique Atento(a).
 6)Não sabe como prosseguir? digite "dica." no campo de respostas para receber uma dica relacionada a questão atual.
-7)O não cumprimento das regras acima fará com que o programa seja executado de forma incorreta.
+7)Errar uma pergunta fará com que você perca uma vida. São, ao todo, 3 vidas por fase (com exceção de uma das classes). Caso o seu total de vidas chegue a zero, o jogo será encerrado.
+8)O não cumprimento das regras acima fará com que o programa seja executado de forma incorreta.
 
 	TEXTO DAS CLASSES
 
