@@ -262,14 +262,14 @@ DICAS
 1.2.1. 
 1.2.2. (DICA EXTRA - BÔNUS DE CLASSE)
 
-2.1.1. Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em X.
-2.1.2. (DICA EXTRA - BÔNUS DE CLASSE)
+2.1.1. Uma exponencial pode ser calculada da seguinte maneira: 2^x, se x = 3, então 2^x = 2*2*2. Isto é, um número elevado a um expoente x corresponde a este mesmo número x vezes.
+2.1.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em X.
 
-2.2.1. Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em X.
-2.2.2. (DICA EXTRA - BÔNUS DE CLASSE)
+2.2.1. Parece um polinômio simples! Você tem a ideia de substituir o primeiro valor novo dado em X.
+2.2.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em X.
 
-2.3.1. Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em X.
-2.3.2. (DICA EXTRA - BÔNUS DE CLASSE)
+2.3.1. Você se lembra que o log de um produto corresponde à soma dos logs: log(a*b) = log a + log b. Além disso, percebe que há uma escritura no chão em que log 1 = 0, log 2 = 0,30, log 3 = 0,48, log 4 = 0,60, log 5 = 0,70, log 6 = 0,78, log 7 = 0,85, log 8 = 0,90, log 9 = 0,95.
+2.3.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em X.
 
 3.1.1.
 3.2.1. (DICA EXTRA - BÔNUS DE CLASSE)
@@ -293,4 +293,4 @@ OBSERVAÇÕES SOBRE AS PERGUNTAS
 
 2.2. Questão checada!
 
-2.3. Questão checada!
+2.3. A sintaxe do log ao cubo gerou uma certa confusão, então aconselho que troquemos de Log2(2*x)³ para [Log2(2*x)]³, porque, por exemplo, se x = 3, o primeiro resulta no valor 21 e, o segundo, em 343 (que é a resposta correta). Digo isso porque de primeira eu interpretei que o 3 tava elevando o valor do parênteses ao cubo, e não do log todo, daí tinha calculado que era igual a 3*log2(2*x), quando na verdade era log2(2*x)*log2(2*x)*log2(2*x).
