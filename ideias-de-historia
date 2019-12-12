@@ -294,3 +294,5 @@ OBSERVAÇÕES SOBRE AS PERGUNTAS
 2.2. Questão checada!
 
 2.3. A sintaxe do log ao cubo gerou uma certa confusão, então aconselho que troquemos de Log2(2*x)³ para [Log2(2*x)]³, porque, por exemplo, se x = 3, o primeiro resulta no valor 21 e, o segundo, em 343 (que é a resposta correta). Digo isso porque de primeira eu interpretei que o 3 tava elevando o valor do parênteses ao cubo, e não do log todo, daí tinha calculado que era igual a 3*log2(2*x), quando na verdade era log2(2*x)*log2(2*x)*log2(2*x).
+
+3.1. Não entendi muito bem auehuaehuaehaueh, eu lembro que você tinha me falado dessa questão na sala, mas fazendo por conta própria dei uma boiada e não cheguei no resultado.
