@@ -115,7 +115,7 @@ Ao final da escada você se depara com uma sala completamente branca e bem ilumi
 O que você faz? (1 Checar o cano; 2 Ignorar o cano)
 
 
-1.1:Subitamente um barulho de engranagens rangendo desperta e uma porta de metal se fecha bloqueando a entrada e uma parede de vidro desce impedindo o acesso ao corredor adiante. Um vidro como aquele resiste a um choque mecânico de até 240 Newtons. O cano agora em suas mãos apresenta a propriedade de ser esticado ou contraído. Considerando que ao bater dar uma pancada no vidro o cano gira em torno do eixo de sua mão, potencializando sua força proporcionalmente ao comprimento do cano, com quantos metros (pelo menos) você deve deixar o cano para que o vidro se rompa se o seu máximo de força no momento é 30 Newntons?
+1.1:Subitamente um barulho de engranagens rangendo desperta e uma porta de metal se fecha bloqueando a entrada e uma parede de vidro desce impedindo o acesso ao corredor adiante. Um vidro como aquele resiste a um choque mecânico de até 240 Newtons. O cano agora em suas mãos apresenta a propriedade de ser esticado ou contraído. Considerando que ao bater dar uma pancada no vidro o cano gira em torno do eixo de sua mão, potencializando sua força proporcionalmente ao comprimento do cano, com quantos metros (pelo menos) você deve deixar o cano para que o vidro se rompa se o seu máximo de força no momento é 30 Newtons?
 ##Resposta: 8
 
 
@@ -264,10 +264,10 @@ Este jogo faz parte de um projeto desenvolvido pelos alunos Tiago Simionato e Al
 DICAS
 
 1.1.1. Você nota que, quanto mais aumenta o tamanho do cano, maior é a força na ponta do cano que bate contra o vidro.  
-1.1.2. (DICA EXTRA - BÔNUS DE CLASSE) Você sente uma forte dor na cabeça. Come ela vem uma lembrança confusa: três--regra--três.
+1.1.2. (DICA EXTRA - BÔNUS DE CLASSE) Você sente uma forte dor na cabeça. Com ela vem uma lembrança confusa: três--regra--três.
 
 1.2.1. 
-1.2.2. (DICA EXTRA - BÔNUS DE CLASSE)
+1.2.2. (DICA EXTRA - BÔNUS DE CLASSE):
 
 2.1.1. Uma exponencial pode ser calculada da seguinte maneira: 2^x, se x = 3, então 2^x = 2*2*2. Isto é, um número elevado a um expoente x corresponde a este mesmo número multiplicado por ele mesmo x vezes.
 2.1.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em f(x).
@@ -275,7 +275,7 @@ DICAS
 2.2.1. Parece um polinômio simples! Você tem a ideia de substituir o primeiro valor novo dado em X.
 2.2.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em f(x).
 
-2.3.1. Você se lembra que o log de um produto corresponde à soma dos logs: log(a*b) = log a + log b. Além disso, percebe que há uma escritura no chão em que log 1 = 0, log 2 = 0,30 ; log 3 = 0,48 ; log 4 = 0,60 ; log 5 = 0,70 ; log 6 = 0,78 ; log 7 = 0,85 ; log 8 = 0,90 ; log 9 = 0,95.
+2.3.1. Você se lembra que o log de um produto corresponde à soma dos logs: log(a*b) = log a + log b. Além disso, percebe que há uma escritura no chão em que log2 (1) = 0; log2 (2) = 1 ; log2 (3) = 1,58; log2 (4) = 2; log2 (5) = 2,32; log2 (6) = 2,58; log2 (7) = 2,80; log2 (8) = 3; log2 (9) = 3,1.
 2.3.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em f(x).
 
 3.1.1.
@@ -292,7 +292,7 @@ DICAS
 
 
 OBSERVAÇÕES SOBRE AS PERGUNTAS
-1.1. O choque mecânico que o vidro aguenta, não deveria ser em N*s? Porque dado que a pessoa usa a força e a distância, o cálculo do momento resulta em N*s.
+1.1. Questão checada!
 
 1.2. Fiz o cálculo aqui e cheguei em 15N. A resposta seria, então, o total de força (15N em cada componente de cada garra)? Não sei se fiz certo ;-;
 
