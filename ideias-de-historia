@@ -244,7 +244,7 @@ Enquanto você está passando pelo corredor, observa duas matrizes rabiscadas na
 
 Embaixo delas, um traço corrido passa a impressão que uma mensagem começou a ser escrita com pressa, porém nunca pôde ser terminada.
 
-Ao chegar na próxima sala você sente um tremor que parece vir de algum lugar próximo. Um alarme ensurdecedor ecoa e o teto começa a se abrir. É então que um robô enorme surge da abertura no teto e cai no chão. É um guarda! Apesar de seu tamanho ele apresenta ferrugem e rachaduras em inúmeras partes de seu corpo, limitando seus movimentos. Contudo, o protetor do laboratório apresenta tantos armamentos acoplados em seu corpo que é perigoso se aproximar. Por sorte, o impacto dele no chão faz com que algumas facas que estavam encravadas na parede caíssem no chão. Você corre para pega-lás. Há 21 facas e elas podem servir para serem arremessadas nas regiões mais fracas e comprometidas do super androide. Por fim, nota-se que ele parece apresentar 16 regiões específicas em seu corpo dispostas horizontal e verticalmente em um quadrado. Se a cada região é possível atribuir um índice vertical e horizontal contados a partir do 0 de cima e da esquerda, em quais Regiões você atira as facas?
+Ao chegar na próxima sala você sente um tremor que parece vir de algum lugar próximo. Um alarme ensurdecedor ecoa e o teto começa a se abrir. É então que um robô enorme surge da abertura no teto e cai no chão. É um guarda! Apesar de seu tamanho ele apresenta ferrugem e rachaduras em inúmeras partes de seu corpo, limitando seus movimentos. Contudo, o protetor do laboratório apresenta tantos armamentos acoplados em seu corpo que é perigoso se aproximar. Por sorte, o impacto dele no chão faz com que algumas facas que estavam encravadas na parede caíssem no chão. Você corre para pegá-las. Há 21 facas e elas podem servir para serem arremessadas nas regiões mais fracas e comprometidas do super androide. Por fim, nota-se que ele parece apresentar 16 regiões específicas em seu corpo dispostas horizontal e verticalmente em um quadrado. Se a cada região é possível atribuir um índice vertical e horizontal contados a partir do 1 de cima e da esquerda, em quais Regiões você atira as facas?
 (Digite os índices entre aspas simples, em ordem crescente, linha por linha. Caso haja algum índice em que desejar atirar mais de uma faca digite o índice duas vezes espaçados igualmente dos demais)
 ##Resposta: '11 11 14 14 14 14 14 14 22 22 22 23 23 23 23 23 23 31 34 34 34'
 
@@ -287,8 +287,12 @@ DICAS
 4.2.1. Volume... você nota novamente a simetria entre os lados do cubo. As palavras "três" e "regra" vêm a sua mente.
 4.2.2. (DICA EXTRA - BÔNUS DE CLASSE): Você nota que consegue calcular o volume do cubo multiplicando sua altura pela largura e profundidade. Resta agora verificar a relação entre as outras informações.
 
-5.1.1.
-5.1.2. (DICA EXTRA - BÔNUS DE CLASSE)
+5.1.1. Os números... Aqueles números. Parecem matrizes... Seria uma boa ideia multiplicá-las? Você se lembra que numa matriz 4x4, as posições são dadas da seguinte forma:
+[11 12 13 14]
+[21 22 23 24]
+[31 32 33 34]
+[41 42 43 44]
+5.1.2. (DICA EXTRA - BÔNUS DE CLASSE): Os números resultantes naquela matriz quadrada, será que indicam algo? talvez deva tentar jogar um certo números de facas naquele local...
 
 
 OBSERVAÇÕES SOBRE AS PERGUNTAS
@@ -308,4 +312,4 @@ OBSERVAÇÕES SOBRE AS PERGUNTAS
 
 4.2. Checado! Adicionada a correção de 0,675 L/s para 675 L/s.
 
-5.1
+5.1. Checado! A posição 00 da matriz foi alterado para 11.
