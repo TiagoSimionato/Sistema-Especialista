@@ -278,11 +278,11 @@ DICAS
 2.3.1. Você se lembra que o log de um produto corresponde à soma dos logs: log(a*b) = log a + log b. Além disso, percebe que há uma escritura no chão em que log2 (1) = 0; log2 (2) = 1 ; log2 (3) = 1,58; log2 (4) = 2; log2 (5) = 2,32; log2 (6) = 2,58; log2 (7) = 2,80; log2 (8) = 3; log2 (9) = 3,1.
 2.3.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em f(x).
 
-3.1.1.
-3.2.1. (DICA EXTRA - BÔNUS DE CLASSE)
+3.1.1. Parece que todas as incógnitas giram em torno da temperatura dada. Como chegar a R? Talvez seria interessante começar por uma conversão... 
+3.2.1. (DICA EXTRA - BÔNUS DE CLASSE): Aqueles graus. Se fosse uma abertura, quantas voltas inteiras poderíamos dar?!
 
-4.1.1.
-4.1.2. (DICA EXTRA - BÔNUS DE CLASSE)
+4.1.1. Você fica agitado e, com isso, lembra-se das aulas de conservação de energia mecânica. De um lado, energia cinética, de outro, o trabalho da força de atrito. Como ambas se relacionam? E como isso provê a força que deve ser feita no cubo?!
+4.1.2. (DICA EXTRA - BÔNUS DE CLASSE): O cubo tem uma velocidade inicial Vi. Lembre-se que, com ela, é possível encontrar a aceleração uniforme do cubo, já que a aceleração é dada pelo quociente de velocidade e tempo.
 
 4.2.1.
 4.2.2. (DICA EXTRA - BÔNUS DE CLASSE)
@@ -302,4 +302,6 @@ OBSERVAÇÕES SOBRE AS PERGUNTAS
 
 2.3. A sintaxe do log ao cubo gerou uma certa confusão, então aconselho que troquemos de Log2(2*x)³ para [Log2(2*x)]³, porque, por exemplo, se x = 3, o primeiro resulta no valor 21 e, o segundo, em 343 (que é a resposta correta). Digo isso porque de primeira eu interpretei que o 3 tava elevando o valor do parênteses ao cubo, e não do log todo, daí tinha calculado que era igual a 3*log2(2*x), quando na verdade era log2(2*x)*log2(2*x)*log2(2*x).
 
-3.1. Não entendi muito bem auehuaehuaehaueh, eu lembro que você tinha me falado dessa questão na sala, mas fazendo por conta própria dei uma boiada e não cheguei no resultado
+3.1. Agora checado!
+
+4.1 Checado! Usei energia cinética e trabalho da força de atrito para achar a velocidade inicial. Depois disso, calculei a força, resultando em 50N.
