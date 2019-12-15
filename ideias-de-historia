@@ -144,7 +144,7 @@ Enquanto anda por um corredor escuro, um som de metal ressoa do fim da passagem.
 
 1.2: Você caminha pelas sombras seguindo o androide desfigurado. Ele não é muito rápido, o que torna a tarefa monótona, mas sua presença é sempre mantida em segredo. Eventualmente a sucata ambulante te leva para a saída do labirinto, onde desaparece em um raio forte de luz. É uma cena esquisita, mas agora é possível continuar segunido seu caminho.
 
-1.3: Você agarra uma barra de metal próxima e corre impetuosamente em direção ao monte de sucata ambulante. Ao golpea-lo com toda sua força, a barra passa direto pela criatura mecânica, sem que nenhuma resistência seja encontrada no caminho. Você não contava com isso, por isso perde o equilíbrio e cai no chão. O brilho tímido agora se tornou um clarão ofuscante. Quando sua visão é retomada o robô já desapareceu e você está novamente no corredor que se encontrava inicialmente. "O que foi isso?" pergunta para si enquanto levanta e continua a seguir seu caminho.
+1.3: Você agarra uma barra de metal próxima e corre impetuosamente em direção ao monte de sucata ambulante. Ao golpeá-lo com toda sua força, a barra passa direto pela criatura mecânica, sem que nenhuma resistência seja encontrada no caminho. Você não contava com isso, por isso perde o equilíbrio e cai no chão. O brilho tímido agora se tornou um clarão ofuscante. Quando sua visão é retomada o robô já desaparecera e você está novamente no corredor que se encontrava inicialmente. "O que foi isso?" pergunta para si enquanto levanta e continua a seguir seu caminho.
 
 	PERGUNTA 2
 
@@ -200,7 +200,7 @@ Premonição?
 
 Ao final do corredor há mais um sala cheia de azulejos brancos intermináveis. O único objeto existente dentro dela é um grande cubo preto feito de granito. O que você faz? (1. Se aproxima do cubo; 2. Contorna ele em direção à saída).
 
-4.1: Ao chegar perto do cubo dois buracos abrem no piso ao seu lado e garras prendem seus pés antes de você conseguir se desviar. Um clique ressoa do outro lado da sala. Surgiu um desnível do outro lado da sala exatamente com o comprimento do cubo. O cubo precisa ser colocado lá! Mas com cuidado pois logo em seguida apareceu outro botão com uma bomba desenhada, sugerindo uma grande destruição caso ativada. Há uma inscrição no cubo pequena e mal feita: "coeficiente de atrito= 1/14". Seus sentidos aguçados lhe dão a estimativa que o cubo tenha massa 10 kg, o dispositivo surgiu a 35 metros de distância e apesar de sua memória enevoada você lembra que alguém te ensinou que o campo gravitacional da Terra gera uma aceleração de 9,8 m/s² na superfície. Com que força (Em Newtons) você soca o cubo em direção ao buraco? Despreze a resistência do ar e considere que a força será aplicada por 1,4 segundos com intensidade uniforme.
+4.1: Ao chegar perto do cubo dois buracos abrem no piso ao seu lado e garras prendem seus pés antes de você conseguir se desviar. Um clique ressoa do outro lado da sala. Surgiu um desnível do outro lado da sala exatamente com o comprimento do cubo. O cubo precisa ser colocado lá! Mas com cuidado pois logo em seguida apareceu outro botão com uma bomba desenhada, sugerindo uma grande destruição caso ativada. Há uma inscrição no cubo pequena e mal feita: "coeficiente de atrito = 1/14". Seus sentidos aguçados lhe dão a estimativa que o cubo tenha massa 10 kg, o dispositivo surgiu a 35 metros de distância e apesar de sua memória enevoada você lembra que alguém te ensinou que o campo gravitacional da Terra gera uma aceleração de 9,8 m/s² na superfície. Com que força (Em Newtons) você soca o cubo em direção ao buraco? Despreze a resistência do ar e considere que a força será aplicada por 1,4 segundos com intensidade uniforme.
 #Resposta: 50
 
 
@@ -266,10 +266,10 @@ DICAS
 1.1.1. Você nota que, quanto mais aumenta o tamanho do cano, maior é a força na ponta do cano que bate contra o vidro.  
 1.1.2. (DICA EXTRA - BÔNUS DE CLASSE) Você sente uma forte dor na cabeça. Com ela vem uma lembrança confusa: três--regra--três.
 
-1.2.1. 
-1.2.2. (DICA EXTRA - BÔNUS DE CLASSE):
+1.2.1. Considere a gravidade g = 9.8m/s^2. Você está entre dois alvos, então, como eles têm uma distância de 8 metros entre si, você está a 4 metros de cada um.
+1.2.2. (DICA EXTRA - BÔNUS DE CLASSE): Você recebe um lampejo de ideias, lembrando-se da existência da energia potencial gravitacional e da energia cinética, e que a energia mecânica final é igual a inicial em uma situação controlada como a daquela sala.
 
-2.1.1. Uma exponencial pode ser calculada da seguinte maneira: 2^x, se x = 3, então 2^x = 2*2*2. Isto é, um número elevado a um expoente x corresponde a este mesmo número multiplicado por ele mesmo x vezes.
+2.1.1. Uma exponencial pode ser calculada da seguinte maneira: 2^x, se x = 3, então 2^x = 2*2*2. Isto é, um número elevado a um expoente x corresponde a este mesmo número multiplicado por ele mesmo x vezes. Energia.
 2.1.2. (DICA EXTRA - BÔNUS DE CLASSE) Você olha a função e se pergunta qual seria o resultado da substituição dos novos números em f(x).
 
 2.2.1. Parece um polinômio simples! Você tem a ideia de substituir o primeiro valor novo dado em X.
@@ -294,7 +294,7 @@ DICAS
 OBSERVAÇÕES SOBRE AS PERGUNTAS
 1.1. Questão checada!
 
-1.2. Fiz o cálculo aqui e cheguei em 15N. A resposta seria, então, o total de força (15N em cada componente de cada garra)? Não sei se fiz certo ;-;
+1.2. Checada, agora cheguei no resultado certo!
 
 2.1. Questão checada!
 
