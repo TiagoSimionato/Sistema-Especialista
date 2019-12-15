@@ -207,7 +207,7 @@ Ao final do corredor há mais um sala cheia de azulejos brancos intermináveis. 
 ##resposta certa:
 Precisamente! O cubo desliza furiosamente os 35 metros e por um triz chega ao seu destino. As garras te libertam, a saída se desbloqueia e é hora de seguir adiante.
 
-4.2:No meio de sua caminhada sirenes irrompem do nada e muitos robôs-guardas despencam do teto. Durante a loucura o cubo de granito de abre e uma mangueira é arremessada em sua direção. Há água dentro do cubo! Porém uma quantidade limitada. Você deve jogar o máximo de água possível em cada vigilante mecânico para garantir que todos deixem de funcionar. Seus instintos lhe dizem que a largura do cubo é de aproximadamente 3 metros, seus olhos conseguem contar um total de 20 robôs e a mangueira em suas mãos tem uma vazão de 0,675 L/s, quantos segundos você aponta a mangueira para cada robô?
+4.2:No meio de sua caminhada sirenes irrompem do nada e muitos robôs-guardas despencam do teto. Durante a loucura o cubo de granito de abre e uma mangueira é arremessada em sua direção. Há água dentro do cubo! Porém uma quantidade limitada. Você deve jogar o máximo de água possível em cada vigilante mecânico para garantir que todos deixem de funcionar. Seus instintos lhe dizem que a largura do cubo é de aproximadamente 3 metros, seus olhos conseguem contar um total de 20 robôs e a mangueira em suas mãos tem uma vazão de 675 L/s, quantos segundos você aponta a mangueira para cada robô?
 ##Resposta: 2
 
 
@@ -284,8 +284,8 @@ DICAS
 4.1.1. Você fica agitado e, com isso, lembra-se das aulas de conservação de energia mecânica. De um lado, energia cinética, de outro, o trabalho da força de atrito. Como ambas se relacionam? E como isso provê a força que deve ser feita no cubo?!
 4.1.2. (DICA EXTRA - BÔNUS DE CLASSE): O cubo tem uma velocidade inicial Vi. Lembre-se que, com ela, é possível encontrar a aceleração uniforme do cubo, já que a aceleração é dada pelo quociente de velocidade e tempo.
 
-4.2.1.
-4.2.2. (DICA EXTRA - BÔNUS DE CLASSE)
+4.2.1. Volume... você nota novamente a simetria entre os lados do cubo. As palavras "três" e "regra" vêm a sua mente.
+4.2.2. (DICA EXTRA - BÔNUS DE CLASSE): Você nota que consegue calcular o volume do cubo multiplicando sua altura pela largura e profundidade. Resta agora verificar a relação entre as outras informações.
 
 5.1.1.
 5.1.2. (DICA EXTRA - BÔNUS DE CLASSE)
@@ -305,3 +305,7 @@ OBSERVAÇÕES SOBRE AS PERGUNTAS
 3.1. Agora checado!
 
 4.1 Checado! Usei energia cinética e trabalho da força de atrito para achar a velocidade inicial. Depois disso, calculei a força, resultando em 50N.
+
+4.2. Checado! Adicionada a correção de 0,675 L/s para 675 L/s.
+
+5.1
